@@ -68,12 +68,14 @@ If that doesn’t work, use:
 
 
 🧪 Run in Google Colab
+
 Open resume_scanner.ipynb in Google Colab, upload a resume, and execute all cells to extract the data.
 
 
 🖥️ Run from Command Line (Optional)
 
 Use the resume_scanner.py script to test parsing directly from terminal:
+
 "python resume_scanner.py sample_resume.pdf " #This will print the extracted data to the console.
 
 📝 Sample Output
@@ -85,10 +87,15 @@ Education: ['B.Tech', 'M.Tech']
 Experience: ['Intern at TCS', 'Data Analyst at XYZ Corp.']
 
 📄 Sample Resume
+
 A sample resume file sample_resume.pdf is included.
+
 You can also upload any resume in PDF format to test your app.
 
 🙋‍♀️ Author
+
 Anuska Saha
-📌 GitHub:Anuska-saha-25 
+
+📌 GitHub:Anuska-saha-25
+
 🔗 LinkedIn:https://www.linkedin.com/in/anuska-saha-76676a2b0/ 
