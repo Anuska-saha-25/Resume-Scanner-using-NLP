@@ -79,12 +79,19 @@ Use the resume_scanner.py script to test parsing directly from terminal:
 "python resume_scanner.py sample_resume.pdf " #This will print the extracted data to the console.
 
 📝 Sample Output
+
 Name: John Doe
+
 Email: john.doe@gmail.com
+
 Phone: +91-9876543210
+
 Skills: ['Python', 'SQL', 'Excel']
+
 Education: ['B.Tech', 'M.Tech']
+
 Experience: ['Intern at TCS', 'Data Analyst at XYZ Corp.']
+
 
 📄 Sample Resume
 
