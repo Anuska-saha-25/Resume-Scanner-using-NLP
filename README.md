@@ -53,7 +53,7 @@ You can use it in **3 ways**:
 
 ## 💻 How to Run the App
 
-### 🔧 1. Install Dependencies
+### 🔧  Install Dependencies
 
 pip install -r requirements.txt
 
