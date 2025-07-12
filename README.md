@@ -56,6 +56,7 @@ You can use it in **3 ways**:
 ### 🔧 1. Install Dependencies
 
 pip install -r requirements.txt
+
 python -m spacy download en_core_web_sm
 
 ▶️ Run the Streamlit App
